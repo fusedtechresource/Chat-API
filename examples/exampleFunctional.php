@@ -1,6 +1,6 @@
 <?php
 
-set_time_limit(10);
+set_time_limit(0);
 require_once __DIR__.'/../src/whatsprot.class.php';
 require_once __DIR__.'/../src//events/MyEvents.php';
 
